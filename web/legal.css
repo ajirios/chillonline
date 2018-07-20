@@ -1,0 +1,213 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 21-Oct-2016, 10:15:32 PM
+    Author     : El Jefe
+*/
+
+
+ header
+  {
+    background-color: #FFF;
+    background: -webkit-gradient(linear, left top, left bottom, from(#000), to(#bababa));
+   background: -webkit-linear-gradient(top, #000, #bababa);
+   background: -moz-linear-gradient(top, #000, #bababa);
+   background: -ms-linear-gradient(top, #000, #bababa);
+   background: -o-linear-gradient(top, #000, #bababa);
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    height: 50px;
+    color: #000;
+    box-shadow: 0px 2px 5px #AAA;
+    text-indent: 30px;
+  }
+  
+  .head
+  {
+      width: 90%;
+      height: 50px;
+      margin-left: auto;
+      margin-right: auto;
+      margin-top: 0;
+  }
+  
+  body
+  {
+    margin: 0;
+    background-color: #EEE;
+    font-family: sans-serif;
+  }
+  
+  .legals
+  {
+      width: 90%;
+      margin-top: 50px;
+      margin-left: auto;
+      margin-right: auto;
+  }
+  
+  .nav ul
+  {
+    list-style-type: none;
+    overflow: auto;
+    margin: 0;
+  }
+
+  .nav ul li
+  {
+    float: right;
+  }
+
+  .nav ul li a:link, .nav ul li a:visited
+  {
+    display: block;
+    background-color: #fff;
+    background: -webkit-gradient(linear, left top, left bottom, from(#000), to(#bababa));
+    background: -webkit-linear-gradient(top, #000, #bababa);
+    background: -moz-linear-gradient(top, #000, #bababa);
+    background: -ms-linear-gradient(top, #000, #bababa);
+    background: -o-linear-gradient(top, #000, #bababa);
+    opacity: 0.8;
+    text-align: right;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-decoration: none;
+    color: #fff;
+    font-family: /*"Josefin Slab", Arial, Helvetica, Pacifico, Rockwell,*/ sans-serif;
+    font-size: 12px;
+  }
+
+  .nav ul li a:hover, .nav ul li a:active
+  {
+    color: #add9e6;
+    opacity: 1.0;
+  }
+  
+  .nav ul li a.current
+  {
+    color: #add9e6;
+  }
+      
+  .sept
+  {
+    background-color: #FFF;
+    margin-right: 0;
+    margin-top: 0;
+    margin-left: 500px;
+    height: 505px;
+    color: #000;
+    opacity: 0.7;
+    box-shadow: 0px 2px 5px #AAA;
+  }
+  
+  .sept2
+  {
+    background-color: #EEE;
+    margin-right: 0;
+    margin-top: 0;
+    margin-left: 500px;
+    height: 500px;
+    color: #000;
+  }
+  
+  .nav
+  {
+      
+    float: right;
+      
+  }
+  
+  footer
+  {
+    background-color: #FFF;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    height: 300px;
+    box-shadow: 0px 2px 5px #AAA;
+    opacity: 0.7;
+    margin-top: 100px;
+    font-size: 12px;
+  }
+  
+    .bol
+  {
+      float: left;
+      margin-top: 10px;
+      margin-left: 0px;
+      width: 150px;
+  }
+  
+  .footnotes
+{
+    float: left;
+    font-size: 12px;
+    height: 230px;
+    width: 200px;
+    text-align: left;
+}
+
+.notes
+{
+    text-decoration: none;
+    color: #000;
+}
+
+.notes:hover
+{
+    color: #e63;
+}
+
+.copyright
+{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 1000px;
+}
+
+.indent1
+{
+    width: 100%;
+    font-size: 40px;
+    height: 50px;
+}
+
+.indent2
+{
+    width: 90%;
+    height: 50px;
+    margin-left: 10%;
+}
+
+.indent3
+{
+    width: 90%;
+    margin-left: 10%;
+}
+
+.heading1
+{
+    width: 100%;
+    font-size: 40px;
+    height: 50px;
+}
+
+.heading2
+{
+    font-size: 25px;
+}
+
+.heading3
+{
+    font-size: 13px;
+    font-weight: bold;
+}
+
+
